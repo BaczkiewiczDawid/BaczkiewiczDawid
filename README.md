@@ -20,3 +20,16 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baczkiewiczdawid&show_icons=true&locale=en&layout=compact" alt="baczkiewiczdawid" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baczkiewiczdawid&show_icons=true&locale=en" alt="baczkiewiczdawid" /></p>
+
+<h3>Tech skills</h3>
+
+<span>HTML</span></br>
+<span>CSS</span></br>
+<span>SCSS</span></br>
+<span>Tailwind CSS</span></br>
+<span>Styled components</span></br>
+<span>JS</span></br>
+<span>React</span></br>
+<span>TypeScript</span></br>
+<span>GIT</span></br>
+<span>MYSQL</span></br>
