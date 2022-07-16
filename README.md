@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 📫 How to reach me **baczkiewicz.dawid22@gmailc.om**
+- 📫 How to reach me **baczkiewicz.dawid22@gmail.com**
 
 - ⚡ My hobbies **Playing guitar, riding bike**
 
