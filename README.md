@@ -26,7 +26,6 @@
 <span>HTML</span></br>
 <span>CSS</span></br>
 <span>SCSS</span></br>
-<span>Tailwind CSS</span></br>
 <span>Styled components</span></br>
 <span>JS</span></br>
 <span>React</span></br>
