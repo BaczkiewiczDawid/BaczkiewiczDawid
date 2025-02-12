@@ -1,34 +1,36 @@
-<h1 align="center">Hi 👋, I'm Dawid Bączkiewicz</h1>
-<h3 align="center">A passionate frontend developer from Poland, Knurów</h3>
+# Hi, I'm Dawid 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baczkiewiczdawid&label=Profile%20views&color=0e75b6&style=flat" alt="baczkiewiczdawid" /> </p>
+## Fullstack Developer | Next.js Enthusiast | JavaScript & TypeScript Expert
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baczkiewiczdawid" alt="baczkiewiczdawid" /></a> </p>
+I am a passionate and dedicated Fullstack Developer with a strong focus on building robust and scalable applications using Next.js, TypeScript, and other modern technologies. With over year of experience in web development, I specialize in creating high-quality web applications that provide seamless user experiences and exceptional performance.
 
-- 🌱 I’m currently learning **Typescript**
+### 🚀 Technologies & Tools
 
-- 📫 How to reach me **baczkiewicz.dawid22@gmail.com**
+- **Frontend:** Next.js, React, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript
+- **Backend:** Node.js, Express, Prisma, Drizzle
+- **Databases:** PostgreSQL, MySQL
+- **Other Tools:** Cube.js, ES Lint, Prettier, Git, Docker
 
-- ⚡ My hobbies **Playing guitar, riding bike**
+### 🔧 Key Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dawid-bączkiewicz-b80191230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dawid-bączkiewicz-b80191230/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/dawid.baczkiewicz.92/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dawid.baczkiewicz.92/" height="30" width="40" /></a>
-</p>
+- Fullstack web development
+- Type-safe coding with TypeScript
+- API design and integration
+- Database management and optimization
+- Real-time data processing
+- Code quality and performance optimization
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baczkiewiczdawid&show_icons=true&locale=en&layout=compact" alt="baczkiewiczdawid" /></p>
+### 📈 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baczkiewiczdawid&show_icons=true&locale=en" alt="baczkiewiczdawid" /></p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=BaczkiewiczDawid&layout=compact
 
-<h3>Tech skills</h3>
+### 📞 Contact
 
-<span>HTML</span></br>
-<span>CSS</span></br>
-<span>SCSS</span></br>
-<span>Styled components</span></br>
-<span>JS</span></br>
-<span>React</span></br>
-<span>TypeScript</span></br>
-<span>GIT</span></br>
-<span>MYSQL</span></br>
+Feel free to reach out if you'd like to collaborate on exciting projects or just want to chat about web development!
+
+- Email: [baczkiewicz.dawid22@gmail.com](mailto:baczkiewicz.dawid22@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/baczkiewicz-dawid/
+
+---
+
+Thanks for visiting my profile!
