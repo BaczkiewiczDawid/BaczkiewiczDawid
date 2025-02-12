@@ -20,10 +20,6 @@ I am a passionate and dedicated Fullstack Developer with a strong focus on build
 - Real-time data processing
 - Code quality and performance optimization
 
-### 📈 Stats
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=BaczkiewiczDawid&layout=compact
-
 ### 📞 Contact
 
 Feel free to reach out if you'd like to collaborate on exciting projects or just want to chat about web development!
